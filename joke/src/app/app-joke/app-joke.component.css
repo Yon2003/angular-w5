@@ -1,0 +1,25 @@
+.joke-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px 0;
+    background-color: #f9f9f9;
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .joke-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .joke-setup {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .joke-delivery {
+    font-size: 1.2em;
+    color: #555;
+    margin-top: 8px;
+  }
+  
